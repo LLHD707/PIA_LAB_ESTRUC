@@ -347,7 +347,7 @@ int main() {//AQUI ESTA EL MAIN-################################################
     char nombre[50];
     char contrasena[50];
     char reintento;
-    int intento=6 , EntrandoAlMenu=1;
+    int intento=1 , EntrandoAlMenu=1;
     time_t inicio_sesion;
     char fecha_hora_inicio[30];
 
